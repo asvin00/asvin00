@@ -1,5 +1,7 @@
 ### Hi there 👋
 ### I am Ayush , 21 years old Geek who dreams in code!
+### 🌱 I’m currently learning
+## about AWS Cloud , Rhel9 , Docker (DevOps) and full stack.
 #SelfTaught
 <!--
 **asvin00/asvin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
