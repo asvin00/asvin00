@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Ayush , 24 years old Geek who dreams in code!
+### I am Ayush , 24 years old Geek who dreams in shell!
 ### 🌱 I’m currently learning
 about AWS Cloud , Rhel9 , Docker (DevOps).
 <!--
